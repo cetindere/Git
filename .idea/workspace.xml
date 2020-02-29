@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77e49b75-bdb0-46fe-a2dd-25bd7d87583c" name="Default Changelist" comment="" />
+    <list default="true" id="77e49b75-bdb0-46fe-a2dd-25bd7d87583c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git" beforeDir="false" afterPath="$PROJECT_DIR$/git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/ReserveRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ReserveRoom.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +55,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
